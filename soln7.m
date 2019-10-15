@@ -2,7 +2,7 @@
 
 % Name: Mahima Chaudhary
 
-% Student Number: 216725962
+
 
 % Email:mahimachaudhary966@gmail.com
 A = load('/Users/mahimachaudhary/Downloads/wine.mat').A;
