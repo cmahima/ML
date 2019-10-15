@@ -2,8 +2,6 @@
 
 % Name: Mahima Chaudhary
 
-% Student Number: 216725962
-
 % Email:mahimachaudhary966@gmail.com
 winetemp = load("/Users/mahimachaudhary/Downloads/wine.mat")
 winemat = cell2mat(struct2cell(winetemp))
